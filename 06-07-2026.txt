@@ -1,0 +1,17 @@
+
+Today I installed Git on my Windows . At first I was confused about the difference between Git and GitHub .And I learned that Git is a software that can work offline and GitHub is a website where developers can store manage and collaborate on code .
+I thought  Git and Git Bash were the same thing . 
+Later, I learned that Git is a  version control software  and Git Bash is a terminal that allows us to use Git commands.
+I also learned  what a Version Control System is . A Version Control System helps us to track the changes in a file , and it allows us to go back to the previous version of the file when needed.
+I created a public GitHub repository called "progress" and cloned it to my local system using    Git CLI. 
+
+I learned some basic Git commands like :
+
+- git clone [which I used to clone the repository to my local system ] 
+
+- git status [It tells you the status of your files . ]
+
+- git add [git add helps us to choose what exactly we need to commit ]
+
+- git commit [Git tracks the changes but it needed to be saved into the history .So we use commit which creates a premanant snapshot of your project.Tf we didn't use commit we can't get the [previous version of the file ] 
+ 
