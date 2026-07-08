@@ -1,0 +1,32 @@
+Today I learnt more about basic  Git commands, and about branch in GitHub. 
+I Learned Git commands from the "Git Tutorial For Dummies" [https://youtu.be/mJ-qvsxPHpY?si=eLNA_eIoR928LwWE ] .
+From  that  tutorial I learned about :
+
+- mkdir [it helps you to create a new folder]
+- cd [helps you to navigate to the specific directory you need to work on .]
+- touch [ it helps you to create  file ]
+- ls [list the directories]
+- code [ helps you open it in VScode ]
+- git init [initialize the Git repository ]
+- git add [does not save changes it prepares them for git commit command (stages)]
+- git add.[ It stages all the new, modified files in the current directory for commit.] 
+- git commit -m [-m helps you gives a description ]
+- git log [ gives what you did the time ,details with the hashcode of the position]
+
+I learned about :
+- git branch 
+  branch allows us to experment with new features or changes without affecting the main branch.
+- pull request
+  It is the request we can give to the project or creator to check out the changes he had made
+- merge 
+ means combining the experiments or functions you made  in the branch  to the main  
+
+I was confused about why do you need a branch we you can already go to previous version of the file .
+Later I understood that  branches are useful because they let developers work on new features or experiments without affecting the stable main branch. This is especially important when many developers are working on the same project. Each developer can work on their own branch, and when the work is reviewed and approved, it can be merged into the `main` branch. 
+
+Finally , I learned that if GitHub has changes that we does not have on our local repository we use " git pull " .  If my local repository has commits that GitHub does not have, I use `git push` to upload them.
+
+ The things i am still confused about are :
+ git push and git remote add orgin 
+ git chechout -b <branch-name>
+
